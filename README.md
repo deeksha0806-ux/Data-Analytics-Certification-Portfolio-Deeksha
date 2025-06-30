@@ -6,7 +6,7 @@
 
 ## 📚 About This Portfolio
 
-This portfolio is a comprehensive demonstration of my journey and expertise developed through the Professional Certification Program in Data Analytics and Generative AI. It is thoughtfully organized to showcase not only my technical proficiency but also my ability to solve real business challenges using data-driven insights.
+This portfolio is a comprehensive demonstration of my journey and expertise developed through the Professional Certification Program in Data Analytics and Generative AI from IIT Kanpur. It is thoughtfully organized to showcase not only my technical proficiency but also my ability to solve real business challenges using data-driven insights.
 
 ---
 
